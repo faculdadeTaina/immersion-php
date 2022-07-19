@@ -2,7 +2,7 @@
   <body>
  <?php 
 
-$usuario_cartao=true;
+$usuario_cartao=false;
 
 $valor_comprar=225;
 
@@ -23,7 +23,25 @@ if($usuario_cartao==true && $valor_comprar >= 100){
 
   <?php 
 
-  
+  if($usuario_cartao==true){
+    echo 'Sim';
+  }else{
+    echo 'Não';
+  }
   ?>
+
+<p>Valor da compra: <?= $valor_frete ?></p>
+    <p>Recebeu o desconto no frete?</p>
+    
+    <?php 
+
+  if($recebeu_desconto==true){
+    echo 'Sim';
+  }else{
+    echo 'Não';
+  }
+
+  ?>
+
   </body>
 </html>

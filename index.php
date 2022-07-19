@@ -17,8 +17,12 @@
   <li>
     <a href="aula4.php">aula 4</a>
   </li>
-
-  
+<li>
+    <a href="aula5.php">aula 5</a>
+  </li>
+  <li>
+    <a href="aula6.php">aula 6</a>
+  </li>
 </ul>
     <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer>
 
