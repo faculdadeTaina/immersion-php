@@ -23,7 +23,16 @@
   <li>
     <a href="aula6.php">aula 6</a>
   </li>
+   <li>
+    <a href="aula7.php">aula 6</a>
+  </li>
 </ul>
+    <p>Atividades</p>
+    <ul>
+      <li>
+        <a href="ex1.php">Ativiade 1</a>
+      </li>
+    </ul>
     <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer>
 
       
