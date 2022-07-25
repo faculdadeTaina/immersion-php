@@ -30,7 +30,7 @@
     <a href="aula8.php">aula 8</a>
   </li>
   <li>
-    <a href="aula7.php">aula 9</a>
+    <a href="aula9.php">aula 9</a>
   </li>
 </ul>
     <p>Atividades</p>
