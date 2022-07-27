@@ -32,6 +32,17 @@
   <li>
     <a href="aula9.php">aula 9</a>
   </li>
+   <li>
+    <a href="aula9.php">aula 9</a>
+  </li>
+  <li>
+    <a href="aula10.php">aula 10</a>
+  </li> 
+  <li>
+    <a href="aula11.php">aula 11</a>
+  </li> <li>
+    <a href="aula12.php">aula 12</a>
+  </li>
 </ul>
     <p>Atividades</p>
     <ul>
