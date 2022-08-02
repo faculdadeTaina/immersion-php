@@ -64,7 +64,7 @@ echo count($array);
 echo '</pre>';*/
 
 //junta array
-$array1=['osx', 'windows'];
+/*$array1=['osx', 'windows'];
 $array2=array('linux');
 $array3=['Solaris'];
 
@@ -75,5 +75,21 @@ echo '<pre>';
 print_r($novo_array);
 //echo ($novo_array); 
 echo '</pre>';
+*/
+//divide uma string baseado em delimitações e retorna um array
+/*$string='26/04/2018';
+
+$array_retorno=explode('-', $string);
+
+echo '<pre>';
+  echo $string;
+  print_r($array_retorno);
+echo '</pre>';
+*/
+//junta os elementos de um arrya em uma string
+$array=['a','b','x','y'];
+$string=implode(',',$array);
+
+echo $string;
 
 ?>
