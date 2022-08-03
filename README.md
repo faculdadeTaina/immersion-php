@@ -8,4 +8,4 @@
 <p>funções de manipulação de strings</p>
 <p>Array</p>
 <p>Manipulação de array</p>
-<p></p>
+<p>Loops</p>
