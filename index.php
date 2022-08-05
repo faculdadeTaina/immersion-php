@@ -7,7 +7,7 @@
 <ul>
   
  <li>
-    <a href="aula22.php">aula 22</a>
+    <a href="ex3.php">ex 3</a>
   </li>
 </ul>
     <p>Atividades</p>
