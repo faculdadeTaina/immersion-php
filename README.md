@@ -9,3 +9,4 @@
 <p>Array</p>
 <p>Manipulação de array</p>
 <p>Loops</p>
+<p>Lista de algoritmos em php</p>

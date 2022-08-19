@@ -23,6 +23,9 @@
         <li>
         <a href="aula2.php">Poo Atividade 2</a>
       </li>
+        <li>
+        <a href="l2.php">Algoritmo</a>
+      </li>
     <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer>
 
       
