@@ -10,7 +10,7 @@
     <a href="ex3.php">ex 3</a>
   </li>
 </ul>
-    <p>Atividades</p>
+ 
     <ul>
       <li>
         <a href="ex1.php">Ativiade 1</a>
@@ -21,7 +21,7 @@
         <a href="ex2.php">Ativiade 2</a>
       </li>
         <li>
-        <a href="aula2.php">Poo Atividade 2</a>
+        <a href="aula5.php">Poo Atividade 2</a>
       </li>
         <li>
         <a href="l2.php">Algoritmo</a>
